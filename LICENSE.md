@@ -1,4 +1,4 @@
-# 
+# Official AI Job Application Bot plugins. Featuring model-training and transfer-learning — optimized for maximum performance.
 
 
 
